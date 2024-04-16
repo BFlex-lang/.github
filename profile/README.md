@@ -39,6 +39,6 @@ The project is simple but complex, an idea so easy on paper and difficult to exe
 - PR / BR;
 - ASM, C, C++, Java, Lisp;
 ### - [Lucas F. Silveira](https://github.com/lucasFelixSilveira)・2009
-- Mathematical prodigy; Developer since age 8; Little knowledge of electronics (in general);
+- Mathematical prodigy; Developer since age 8; However disappointing, also web developer;
 - MG / BR;
 - ASM, C, C++, Lisp, Perl;
