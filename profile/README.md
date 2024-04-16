@@ -18,7 +18,7 @@ BFlex is designed for the modern coder who values the flexibility of a bootstrap
 
 The creation of BFlex wasn't just about building a new language. It was about crafting a tool that could adapt to the ever-evolving challenges of software development, a platform that encourages innovation through its inherent flexibility. It’s a tribute not only to the technical prowess of Ken Thompson but also to his vision of making powerful tools that are accessible and useful to a wide range of people. As powerful as Ken's vision, we are Bflex!
 
-### Why BFlex
+### Why BFlex?
 
 In the early days of personal computing, a revolution began in a small, cluttered lab where two visionaries, Ken Thompson and Dennis Ritchie, pioneered a language that would forever change the landscape of technology. Their creations, the C programming language and the UNIX operational system, were a marvel of efficiency and simplicity, setting a foundation for future innovations. Decades later, inspired by the spirit of these early computing pioneers, a new language emerges from the shadows of giants — BFlex. Named 'B' in homage to Ken Thompson, who not only co-developed C but later contributed to the creation of Go, BFlex stands on the shoulders of its predecessors, Go and Rust, drawing strength from their robust frameworks and innovative features.
 
