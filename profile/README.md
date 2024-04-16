@@ -45,6 +45,7 @@ The project is simple but complex, an idea so easy on paper and difficult to exe
 
 # Special quotes
 ### - [Renato Fermi](https://github.com/repiazza)・1988
+#### Developer note: `Your help was extremely important for the project. Mainly due to the nights lost sleep in favor of the development of the project.`
 - 
 - SP / BR;
-- ASM, C, Emacs Lisp;
+- ASM, C, PHP, SH Script;
