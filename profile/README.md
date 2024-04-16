@@ -37,8 +37,8 @@ The project is simple but complex, an idea so easy on paper and difficult to exe
 ### - [Eduardo Bandeira](https://github.com/EngBandeira)・2008
 - Math prodigy, in differential geometry and tensor calculus,in a really love with Eletromagnetic Physics;
 - PR / BR;
-- ASM, C, C++, Java;
+- ASM, C, C++, Java, Lisp;
 ### - [Lucas F. Silveira](https://github.com/lucasFelixSilveira)・2009
 - Mathematical prodigy; Developer since age 8; Little knowledge of electronics (in general);
 - MG / BR;
-- ASM, C, C++, Go, Kotlin, Rust, Zig;
+- ASM, C, C++, Lisp, Perl, Go, Kotlin, Rust, Zig;
