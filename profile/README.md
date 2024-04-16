@@ -42,3 +42,9 @@ The project is simple but complex, an idea so easy on paper and difficult to exe
 - Mathematical prodigy; Developer since age 8; However disappointing, also web developer;
 - MG / BR;
 - ASM, C, C++, Lisp, Perl;
+
+# Special quotes
+### - [Renato Fermi](https://github.com/repiazza)・1988
+- 
+- SP / BR;
+- ASM, C, Emacs Lisp;
