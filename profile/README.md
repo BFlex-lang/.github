@@ -37,5 +37,5 @@ In the early days of personal computing, a revolution began in a small, cluttere
 - `Waiting for description...`
 - SP / BR;
 - ASM, C, PHP, SH Script;
-### Developer note: 
-```Your help was extremely important for the project. Mainly due to the nights lost sleep in favor of the development of the project.``` 
+> [!NOTE]\
+> Your help was extremely important for the project. Mainly due to the nights lost sleep in favor of the development of the project.
