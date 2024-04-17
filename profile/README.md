@@ -40,7 +40,7 @@ In the early days of personal computing, a revolution began in a small, cluttere
 
 # Special quotes
 ### - [Renato Fermi](https://github.com/repiazza)・1988
-- Ana Mel's father;
+- `Waiting description...`;
 - SP / BR;
 - ASM, C, PHP, SH Script;
 > [!NOTE]\
