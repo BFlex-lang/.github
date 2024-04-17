@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://imgur.com/QeYmgiQ.png" width="60%">
+  <p>(<a href="https://bflex.tech">Website</a>) | (<a href="#developers">Developers</a>) | (<a href="#about">About</a>)</p>
 </div>
 
 
