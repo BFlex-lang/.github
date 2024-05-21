@@ -97,7 +97,8 @@ Do you need help with something involving language?
 > [!WARNING]\
 > Website still under development.
 
-
+<br>
+<hr>
 <div align="center">
   <img src="https://imgur.com/3PviHC5.png">
 
