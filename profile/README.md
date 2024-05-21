@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://imgur.com/QeYmgiQ.png" width="60%">
-  <p>(<a href="https://bflex.tech">Website</a>) | (<a href="#developers">Developers</a>) | (<a href="#about">About</a>)</p>
+  <p>(<a href="https://bflex.tech" target="_blank">Website</a>) | (<a href="#developers">Developers</a>) | (<a href="#about">About</a>)</p>
 </div>
 
 
@@ -83,3 +83,21 @@ since 2018
 - Lucas in a city of 11,200 inhabitants, and Eduardo in one with 20,000 inhabitants, it was certainly unexpected that they could come together and create something as big as BFlex.
 
 - BFlex had a few names previously, one of them being "LGrow", where the name persisted for a long time.
+
+# BFlex Website
+Do you need help with something involving language?
+
+<div align="center">
+  <img width="80%" src="https://imgur.com/y2fK0ch.png">
+
+  ## [The BFlex programming language website](https://bflex.tech)
+  ### Click above to enter in website.
+</div>
+
+> [!WARNING]\
+> Website still under development.
+
+<br>
+<br>
+
+`README.md` © BFlex Corp.
