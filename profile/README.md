@@ -109,7 +109,5 @@ Do you need help with something involving language?
 
 <br>
 <hr>
-<br>
-<br>
 
 `README.md` © BFlex Corp.
