@@ -30,18 +30,56 @@ In the early days of personal computing, a revolution began in a small, cluttere
 
 # Developers
 ### - [Eduardo Bandeira](https://github.com/EngBandeira)・2008
-- Math prodigy, in differential geometry and tensor calculus,in a really love with Eletromagnetic Physics;
+```
+Galderio, passionate about C, Asm and LISP, delves into Tensor 
+Calculus, Control Theory and Quantum Physics. By joining BFlex,
+he becomes one of the main brains behind the language, 
+contributing to its development and evolution.
+```
 - PR / BR;
 - ASM, C, C++, Java, Lisp;
 ### - [Lucas F. Silveira](https://github.com/lucasFelixSilveira)・2009
-- Mathematical prodigy; Developer since age 8; However disappointing, also web developer;
+```
+I started programming at age 8, making scripts for Windows
+computers. At 11, I became interested in more advanced levels. 
+I decided to start a big project, called LGrow. At 12, I delved 
+into low-level programming, refining the project several times. 
+Today , with my partner Eduardo Bandeira, we founded BFlex
+```
 - MG / BR;
 - ASM, C, C++, Lisp, Perl;
 
 # Special quotes
 ### - [Renato Fermi](https://github.com/repiazza)・1988
-- `Waiting description...`;
+```
+Proud father, devoted educator for life. System Architect, 
+C language specialist; Deep experienced on retail and 
+wholesale. Gaming and training new programmer generation 
+since 2018
+```
 - SP / BR;
 - ASM, C, PHP, SH Script;
 > [!NOTE]\
 > Your help was extremely important for the project. Mainly due to the nights lost sleep in favor of the development of the project.
+
+<br>
+
+# Curious
+
+- We definitely wasted a lot of time making small talk, and as young people in the prime of their years, a lot of talking about Lucas's cousins. (Beautiful girls)
+
+- If there's something we know how to do, it's argue hard about something silly, but always related to the project. Disagreements, but likes.
+
+- Lucas definitely doesn't like studying what he won't use, he prefers practice. Eduardo, on the other hand, is much more theoretical, he delves into all the areas he wants, even if he doesn't use some things.
+
+- Whenever we get tired and need a break, the first thing we do is talk about girls.
+
+- To maintain an organized project, Lucas tries to change school hours from the afternoon to the morning. But his school always gets in his way.
+
+- Tired of seeing Python or JavaScript programmers spread across the world, we decided to create the language.
+
+- Definitely, a city in the interior of Minas Gerais is not good. Lucas notices this fatefully every day.
+
+- Lucas in a city of 11,200 inhabitants, and Eduardo in one with 20,000 inhabitants, it was certainly unexpected that they could come together and create something as big as BFlex.
+
+- BFlex had a few names previously, one of them being "LGrow", where the name persisted for a long time.
