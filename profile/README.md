@@ -50,6 +50,15 @@ Today , with my partner Eduardo Bandeira, we founded BFlex.
 - ASM, C, C++, Lisp, Perl;
 
 # Special quotes
+### - [Heitor Silva](https://github.com/Hector2523)・2009
+```
+Waiting a description...
+```
+- MG / BR;
+- Rust and Front-end languages;
+> [!NOTE]\  
+> Your collaboration with our front-end was definitely very important. Without you, we would be without our documentation and website. Thank you for your collaboration on the project.
+
 ### - [Renato Fermi](https://github.com/repiazza)・1988
 ```
 Proud father, devoted educator for life. System Architect, 
@@ -60,7 +69,8 @@ since 2018
 - SP / BR;
 - ASM, C, PHP, SH Script;
 > [!NOTE]\
-> Your help was extremely important for the project. Mainly due to the nights lost sleep in favor of the development of the project.
+> Your help was extremely important for the project. Mainly due to the nights lost sleep in favor of the development of the project. Thank you for your collaboration on the project.
+
 
 <br>
 
@@ -99,12 +109,6 @@ Do you need help with something involving language?
 
 <br>
 <hr>
-<div align="center">
-  <img src="https://imgur.com/3PviHC5.png">
-
-  ## [BFlex Developers](#developers)
-</div>
-
 <br>
 <br>
 
