@@ -56,7 +56,7 @@ Waiting a description...
 ```
 - MG / BR;
 - Rust and Front-end languages;
-> [!NOTE]\  
+> [!NOTE]\
 > Your collaboration with our front-end was definitely very important. Without you, we would be without our documentation and website. Thank you for your collaboration on the project.
 
 ### - [Renato Fermi](https://github.com/repiazza)・1988
