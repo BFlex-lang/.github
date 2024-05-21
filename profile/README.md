@@ -44,7 +44,7 @@ I started programming at age 8, making scripts for Windows
 computers. At 11, I became interested in more advanced levels. 
 I decided to start a big project, called LGrow. At 12, I delved 
 into low-level programming, refining the project several times. 
-Today , with my partner Eduardo Bandeira, we founded BFlex
+Today , with my partner Eduardo Bandeira, we founded BFlex.
 ```
 - MG / BR;
 - ASM, C, C++, Lisp, Perl;
@@ -54,7 +54,7 @@ Today , with my partner Eduardo Bandeira, we founded BFlex
 ```
 Proud father, devoted educator for life. System Architect, 
 C language specialist; Deep experienced on retail and 
-wholesale. Gaming and training new programmer generation 
+wholesale. Gaming and training new programmer generation.
 since 2018
 ```
 - SP / BR;
@@ -96,6 +96,13 @@ Do you need help with something involving language?
 
 > [!WARNING]\
 > Website still under development.
+
+
+<div align="center">
+  <img src="https://imgur.com/3PviHC5.png">
+
+  ## [BFlex Developers](#developers)
+</div>
 
 <br>
 <br>
