@@ -74,13 +74,22 @@ since 2018
 
 <br>
 
-# Curious
 
-- We definitely wasted a lot of time making small talk, and as young people in the prime of their years, a lot of talking about Lucas's cousins. (Beautiful girls)
+# Others 
 
-- If there's something we know how to do, it's argue hard about something silly, but always related to the project. Disagreements, but likes. Nothing more.
+<h3><details>
+<summary align="left">Curious</summary>
+<br>
 
-- To maintain an organized project, Lucas tries to change school hours from the afternoon to the morning. But his school always gets in his way.
+- #####  We definitely wasted a lot of time making small talk, and as young people in the prime of their years, a lot of talking about Lucas's cousins. (Beautiful girls)
+
+- ##### If there's something we know how to do, it's argue hard about something silly, but always related to the project. Disagreements, but likes. Nothing more.
+
+- ##### To maintain an organized project, Lucas tries to change school hours from the afternoon to the morning. But his school always gets in his way.
+
+</details></h3><hr>
+<br>
+<br>
 
 # BFlex Website
 Do you need help with something involving language?
