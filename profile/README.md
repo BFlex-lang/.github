@@ -78,21 +78,9 @@ since 2018
 
 - We definitely wasted a lot of time making small talk, and as young people in the prime of their years, a lot of talking about Lucas's cousins. (Beautiful girls)
 
-- If there's something we know how to do, it's argue hard about something silly, but always related to the project. Disagreements, but likes.
-
-- Lucas definitely doesn't like studying what he won't use, he prefers practice. Eduardo, on the other hand, is much more theoretical, he delves into all the areas he wants, even if he doesn't use some things.
-
-- Whenever we get tired and need a break, the first thing we do is talk about girls.
+- If there's something we know how to do, it's argue hard about something silly, but always related to the project. Disagreements, but likes. Nothing more.
 
 - To maintain an organized project, Lucas tries to change school hours from the afternoon to the morning. But his school always gets in his way.
-
-- Tired of seeing Python or JavaScript programmers spread across the world, we decided to create the language.
-
-- Definitely, a city in the interior of Minas Gerais is not good. Lucas notices this fatefully every day.
-
-- Lucas in a city of 11,200 inhabitants, and Eduardo in one with 20,000 inhabitants, it was certainly unexpected that they could come together and create something as big as BFlex.
-
-- BFlex had a few names previously, one of them being "LGrow", where the name persisted for a long time.
 
 # BFlex Website
 Do you need help with something involving language?
