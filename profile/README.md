@@ -33,7 +33,7 @@ In the early days of personal computing, a revolution began in a small, cluttere
 - C-like performance
 - Mathematical ease and ease of solving large integers and decimals 
 - Compatible with multiple paradigms 
-- `Impl`, `Struct` and `Traít`, The Rust POO Power!
+- `Impl`, `Struct` and `Traít`, The Rust power!
 - Community in formation, more chances to stand out!
 
 
