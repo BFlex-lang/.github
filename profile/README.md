@@ -8,7 +8,7 @@
 The BFlex project is ambitious and has a big goal of replacing Java and C in some projects. Together, let's create this incredible ecosystem and make BFlex a leader in the programming universe.
 
 > [!WARNING]\
-> The Project is still under development
+> Project stalled. Maybe one day we'll be back.
 
 
 <center>
